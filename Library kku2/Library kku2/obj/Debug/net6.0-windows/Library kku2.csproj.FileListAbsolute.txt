@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\Library kku2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\Library_kku2.Form1.resources
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\Library kku2.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\Library kku2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\Library kku2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\Library kku2.AssemblyInfo.cs
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\Library kku2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\bin\Debug\net6.0-windows\Library kku2.exe
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\bin\Debug\net6.0-windows\Library kku2.deps.json
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\bin\Debug\net6.0-windows\Library kku2.runtimeconfig.json
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\bin\Debug\net6.0-windows\Library kku2.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\bin\Debug\net6.0-windows\ref\Library kku2.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\bin\Debug\net6.0-windows\Library kku2.pdb
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\Library kku2.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\ref\Library kku2.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\Library kku2.pdb
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Library kku\Library kku2\Library kku2\Library kku2\obj\Debug\net6.0-windows\Library kku2.genruntimeconfig.cache
